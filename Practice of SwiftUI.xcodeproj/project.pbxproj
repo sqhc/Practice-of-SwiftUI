@@ -16,6 +16,7 @@
 		06961E3529BD2C2A007F32CF /* ShapesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06961E3429BD2C2A007F32CF /* ShapesView.swift */; };
 		06961E3729BD55E0007F32CF /* ColorsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06961E3629BD55E0007F32CF /* ColorsView.swift */; };
 		06961E7829C005F0007F32CF /* GradiantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06961E7729C005F0007F32CF /* GradiantView.swift */; };
+		06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ABEFE529D3B6B800844533 /* FrameView.swift */; };
 		06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D7B29CCE9F800610C84 /* IconView.swift */; };
 		06DE6D9129CE338900610C84 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D9029CE338900610C84 /* ImageView.swift */; };
 /* End PBXBuildFile section */
@@ -30,6 +31,7 @@
 		06961E3429BD2C2A007F32CF /* ShapesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesView.swift; sourceTree = "<group>"; };
 		06961E3629BD55E0007F32CF /* ColorsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsView.swift; sourceTree = "<group>"; };
 		06961E7729C005F0007F32CF /* GradiantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradiantView.swift; sourceTree = "<group>"; };
+		06ABEFE529D3B6B800844533 /* FrameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameView.swift; sourceTree = "<group>"; };
 		06DE6D7B29CCE9F800610C84 /* IconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconView.swift; sourceTree = "<group>"; };
 		06DE6D9029CE338900610C84 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -75,6 +77,7 @@
 				06961E7729C005F0007F32CF /* GradiantView.swift */,
 				06DE6D7B29CCE9F800610C84 /* IconView.swift */,
 				06DE6D9029CE338900610C84 /* ImageView.swift */,
+				06ABEFE529D3B6B800844533 /* FrameView.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				06DE6D9129CE338900610C84 /* ImageView.swift in Sources */,
 				06961E3329BD1250007F32CF /* TextView.swift in Sources */,
 				06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */,
+				06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */,
 				063C9DF229B3E3C800AA995D /* ContentView.swift in Sources */,
 				06961E3729BD55E0007F32CF /* ColorsView.swift in Sources */,
 				06961E3529BD2C2A007F32CF /* ShapesView.swift in Sources */,
