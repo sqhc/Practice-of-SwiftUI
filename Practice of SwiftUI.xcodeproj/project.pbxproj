@@ -27,6 +27,7 @@
 		06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ABEFE529D3B6B800844533 /* FrameView.swift */; };
 		06ABEFEE29D620AC00844533 /* BackgroundAndOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ABEFED29D620AC00844533 /* BackgroundAndOverlayView.swift */; };
 		06ABEFF029D6423E00844533 /* StacksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ABEFEF29D6423E00844533 /* StacksView.swift */; };
+		06C8A21629E46BBD008170F2 /* ScrollViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8A21529E46BBD008170F2 /* ScrollViewPractice.swift */; };
 		06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D7B29CCE9F800610C84 /* IconView.swift */; };
 		06DE6D9129CE338900610C84 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D9029CE338900610C84 /* ImageView.swift */; };
 /* End PBXBuildFile section */
@@ -52,6 +53,7 @@
 		06ABEFE529D3B6B800844533 /* FrameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameView.swift; sourceTree = "<group>"; };
 		06ABEFED29D620AC00844533 /* BackgroundAndOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayView.swift; sourceTree = "<group>"; };
 		06ABEFEF29D6423E00844533 /* StacksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksView.swift; sourceTree = "<group>"; };
+		06C8A21529E46BBD008170F2 /* ScrollViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPractice.swift; sourceTree = "<group>"; };
 		06DE6D7B29CCE9F800610C84 /* IconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconView.swift; sourceTree = "<group>"; };
 		06DE6D9029CE338900610C84 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -105,6 +107,7 @@
 				065606E329D9B31400969B01 /* SpacerView.swift */,
 				065606EE29DB9C4A00969B01 /* InitializerView.swift */,
 				0649ED7929E392C8002A1ABB /* forEachView.swift */,
+				06C8A21529E46BBD008170F2 /* ScrollViewPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				063C9DF229B3E3C800AA995D /* ContentView.swift in Sources */,
 				06961E3729BD55E0007F32CF /* ColorsView.swift in Sources */,
 				06961E3529BD2C2A007F32CF /* ShapesView.swift in Sources */,
+				06C8A21629E46BBD008170F2 /* ScrollViewPractice.swift in Sources */,
 				06ABEFF029D6423E00844533 /* StacksView.swift in Sources */,
 				06961E7829C005F0007F32CF /* GradiantView.swift in Sources */,
 				065606ED29DA19A100969B01 /* UserView.swift in Sources */,
