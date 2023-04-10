@@ -28,6 +28,7 @@
 		06ABEFEE29D620AC00844533 /* BackgroundAndOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ABEFED29D620AC00844533 /* BackgroundAndOverlayView.swift */; };
 		06ABEFF029D6423E00844533 /* StacksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ABEFEF29D6423E00844533 /* StacksView.swift */; };
 		06C8A21629E46BBD008170F2 /* ScrollViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8A21529E46BBD008170F2 /* ScrollViewPractice.swift */; };
+		06C8A21829E48F9B008170F2 /* GridPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8A21729E48F9B008170F2 /* GridPractice.swift */; };
 		06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D7B29CCE9F800610C84 /* IconView.swift */; };
 		06DE6D9129CE338900610C84 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D9029CE338900610C84 /* ImageView.swift */; };
 /* End PBXBuildFile section */
@@ -54,6 +55,7 @@
 		06ABEFED29D620AC00844533 /* BackgroundAndOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayView.swift; sourceTree = "<group>"; };
 		06ABEFEF29D6423E00844533 /* StacksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksView.swift; sourceTree = "<group>"; };
 		06C8A21529E46BBD008170F2 /* ScrollViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPractice.swift; sourceTree = "<group>"; };
+		06C8A21729E48F9B008170F2 /* GridPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridPractice.swift; sourceTree = "<group>"; };
 		06DE6D7B29CCE9F800610C84 /* IconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconView.swift; sourceTree = "<group>"; };
 		06DE6D9029CE338900610C84 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -108,6 +110,7 @@
 				065606EE29DB9C4A00969B01 /* InitializerView.swift */,
 				0649ED7929E392C8002A1ABB /* forEachView.swift */,
 				06C8A21529E46BBD008170F2 /* ScrollViewPractice.swift */,
+				06C8A21729E48F9B008170F2 /* GridPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 				065606EF29DB9C4B00969B01 /* InitializerView.swift in Sources */,
 				0649ED7A29E392C8002A1ABB /* forEachView.swift in Sources */,
 				06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */,
+				06C8A21829E48F9B008170F2 /* GridPractice.swift in Sources */,
 				06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */,
 				065606E229D8706700969B01 /* PaddingAndSpacerView.swift in Sources */,
 				063C9DF229B3E3C800AA995D /* ContentView.swift in Sources */,
