@@ -12,6 +12,7 @@
 		063C9DF429B3E3DE00AA995D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 063C9DF329B3E3DE00AA995D /* Assets.xcassets */; };
 		063C9DF729B3E3DF00AA995D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 063C9DF629B3E3DF00AA995D /* Preview Assets.xcassets */; };
 		063C9DFF29B3E7BF00AA995D /* SwiftUICharts in Frameworks */ = {isa = PBXBuildFile; productRef = 063C9DFE29B3E7BF00AA995D /* SwiftUICharts */; };
+		0649ED7A29E392C8002A1ABB /* forEachView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0649ED7929E392C8002A1ABB /* forEachView.swift */; };
 		065606E229D8706700969B01 /* PaddingAndSpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065606E129D8706600969B01 /* PaddingAndSpacerView.swift */; };
 		065606E429D9B31400969B01 /* SpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065606E329D9B31400969B01 /* SpacerView.swift */; };
 		065606E729D9F8A300969B01 /* UsersViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065606E629D9F8A300969B01 /* UsersViewModel.swift */; };
@@ -36,6 +37,7 @@
 		063C9DF129B3E3C800AA995D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		063C9DF329B3E3DE00AA995D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		063C9DF629B3E3DF00AA995D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0649ED7929E392C8002A1ABB /* forEachView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = forEachView.swift; sourceTree = "<group>"; };
 		065606E129D8706600969B01 /* PaddingAndSpacerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerView.swift; sourceTree = "<group>"; };
 		065606E329D9B31400969B01 /* SpacerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerView.swift; sourceTree = "<group>"; };
 		065606E629D9F8A300969B01 /* UsersViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersViewModel.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				065606E129D8706600969B01 /* PaddingAndSpacerView.swift */,
 				065606E329D9B31400969B01 /* SpacerView.swift */,
 				065606EE29DB9C4A00969B01 /* InitializerView.swift */,
+				0649ED7929E392C8002A1ABB /* forEachView.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				06961E3329BD1250007F32CF /* TextView.swift in Sources */,
 				065606EB29DA09B900969B01 /* CombineView.swift in Sources */,
 				065606EF29DB9C4B00969B01 /* InitializerView.swift in Sources */,
+				0649ED7A29E392C8002A1ABB /* forEachView.swift in Sources */,
 				06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */,
 				06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */,
 				065606E229D8706700969B01 /* PaddingAndSpacerView.swift in Sources */,
