@@ -14,6 +14,7 @@
 		063C9DFF29B3E7BF00AA995D /* SwiftUICharts in Frameworks */ = {isa = PBXBuildFile; productRef = 063C9DFE29B3E7BF00AA995D /* SwiftUICharts */; };
 		0641CFAD29E9A13B0030CAAC /* ButtonsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0641CFAC29E9A13B0030CAAC /* ButtonsPractice.swift */; };
 		0641CFAF29E9B6A30030CAAC /* StatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0641CFAE29E9B6A30030CAAC /* StatePractice.swift */; };
+		0641CFB129EA2F550030CAAC /* ExtractedFunctionsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0641CFB029EA2F550030CAAC /* ExtractedFunctionsPractice.swift */; };
 		0649ED7A29E392C8002A1ABB /* forEachView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0649ED7929E392C8002A1ABB /* forEachView.swift */; };
 		065606E229D8706700969B01 /* PaddingAndSpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065606E129D8706600969B01 /* PaddingAndSpacerView.swift */; };
 		065606E429D9B31400969B01 /* SpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065606E329D9B31400969B01 /* SpacerView.swift */; };
@@ -44,6 +45,7 @@
 		063C9DF629B3E3DF00AA995D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0641CFAC29E9A13B0030CAAC /* ButtonsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsPractice.swift; sourceTree = "<group>"; };
 		0641CFAE29E9B6A30030CAAC /* StatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePractice.swift; sourceTree = "<group>"; };
+		0641CFB029EA2F550030CAAC /* ExtractedFunctionsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsPractice.swift; sourceTree = "<group>"; };
 		0649ED7929E392C8002A1ABB /* forEachView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = forEachView.swift; sourceTree = "<group>"; };
 		065606E129D8706600969B01 /* PaddingAndSpacerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerView.swift; sourceTree = "<group>"; };
 		065606E329D9B31400969B01 /* SpacerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerView.swift; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				06C8A21929E4D782008170F2 /* SafeAreaPractice.swift */,
 				0641CFAC29E9A13B0030CAAC /* ButtonsPractice.swift */,
 				0641CFAE29E9B6A30030CAAC /* StatePractice.swift */,
+				0641CFB029EA2F550030CAAC /* ExtractedFunctionsPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 				063C9DF029B3E3C800AA995D /* Practice_of_SwiftUIApp.swift in Sources */,
 				065606E929D9F8E600969B01 /* UserModel.swift in Sources */,
 				06ABEFEE29D620AC00844533 /* BackgroundAndOverlayView.swift in Sources */,
+				0641CFB129EA2F550030CAAC /* ExtractedFunctionsPractice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
