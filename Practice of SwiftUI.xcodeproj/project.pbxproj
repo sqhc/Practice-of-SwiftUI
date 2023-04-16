@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		063AFB3629EB334E003C6550 /* ExtractSubViewsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063AFB3529EB334E003C6550 /* ExtractSubViewsPractice.swift */; };
 		063AFB3829EB5BE9003C6550 /* BindingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063AFB3729EB5BE9003C6550 /* BindingPractice.swift */; };
+		063AFB3A29EC875F003C6550 /* ConditionalPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063AFB3929EC875F003C6550 /* ConditionalPractice.swift */; };
 		063C9DF029B3E3C800AA995D /* Practice_of_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063C9DEF29B3E3C800AA995D /* Practice_of_SwiftUIApp.swift */; };
 		063C9DF229B3E3C800AA995D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063C9DF129B3E3C800AA995D /* ContentView.swift */; };
 		063C9DF429B3E3DE00AA995D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 063C9DF329B3E3DE00AA995D /* Assets.xcassets */; };
@@ -42,6 +43,7 @@
 /* Begin PBXFileReference section */
 		063AFB3529EB334E003C6550 /* ExtractSubViewsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViewsPractice.swift; sourceTree = "<group>"; };
 		063AFB3729EB5BE9003C6550 /* BindingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPractice.swift; sourceTree = "<group>"; };
+		063AFB3929EC875F003C6550 /* ConditionalPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalPractice.swift; sourceTree = "<group>"; };
 		063C9DEC29B3E3C800AA995D /* Practice of SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Practice of SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		063C9DEF29B3E3C800AA995D /* Practice_of_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practice_of_SwiftUIApp.swift; sourceTree = "<group>"; };
 		063C9DF129B3E3C800AA995D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				0641CFB029EA2F550030CAAC /* ExtractedFunctionsPractice.swift */,
 				063AFB3529EB334E003C6550 /* ExtractSubViewsPractice.swift */,
 				063AFB3729EB5BE9003C6550 /* BindingPractice.swift */,
+				063AFB3929EC875F003C6550 /* ConditionalPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */,
 				06C8A21829E48F9B008170F2 /* GridPractice.swift in Sources */,
 				06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */,
+				063AFB3A29EC875F003C6550 /* ConditionalPractice.swift in Sources */,
 				065606E229D8706700969B01 /* PaddingAndSpacerView.swift in Sources */,
 				0641CFAD29E9A13B0030CAAC /* ButtonsPractice.swift in Sources */,
 				063C9DF229B3E3C800AA995D /* ContentView.swift in Sources */,
