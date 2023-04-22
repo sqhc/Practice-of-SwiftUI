@@ -40,6 +40,7 @@
 		06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D7B29CCE9F800610C84 /* IconView.swift */; };
 		06DE6D9129CE338900610C84 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D9029CE338900610C84 /* ImageView.swift */; };
 		06EF7C0729F43BB2003CE72D /* AnimationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */; };
+		06EF7C0929F45DDB003CE72D /* AnimationTimingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0829F45DDB003CE72D /* AnimationTimingPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -76,6 +77,7 @@
 		06DE6D7B29CCE9F800610C84 /* IconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconView.swift; sourceTree = "<group>"; };
 		06DE6D9029CE338900610C84 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 		06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPractice.swift; sourceTree = "<group>"; };
+		06EF7C0829F45DDB003CE72D /* AnimationTimingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,7 @@
 				063AFB3929EC875F003C6550 /* ConditionalPractice.swift */,
 				063AFB3B29ECAEE4003C6550 /* TernaryPractice.swift */,
 				06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */,
+				06EF7C0829F45DDB003CE72D /* AnimationTimingPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 				06C8A21829E48F9B008170F2 /* GridPractice.swift in Sources */,
 				06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */,
 				063AFB3C29ECAEE4003C6550 /* TernaryPractice.swift in Sources */,
+				06EF7C0929F45DDB003CE72D /* AnimationTimingPractice.swift in Sources */,
 				063AFB3A29EC875F003C6550 /* ConditionalPractice.swift in Sources */,
 				065606E229D8706700969B01 /* PaddingAndSpacerView.swift in Sources */,
 				0641CFAD29E9A13B0030CAAC /* ButtonsPractice.swift in Sources */,
