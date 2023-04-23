@@ -42,6 +42,7 @@
 		06EF7C0729F43BB2003CE72D /* AnimationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */; };
 		06EF7C0929F45DDB003CE72D /* AnimationTimingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0829F45DDB003CE72D /* AnimationTimingPractice.swift */; };
 		06EF7C0B29F4AC79003CE72D /* TransitionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0A29F4AC78003CE72D /* TransitionPractice.swift */; };
+		06EF7C0D29F57209003CE72D /* SheetsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0C29F57208003CE72D /* SheetsPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPractice.swift; sourceTree = "<group>"; };
 		06EF7C0829F45DDB003CE72D /* AnimationTimingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingPractice.swift; sourceTree = "<group>"; };
 		06EF7C0A29F4AC78003CE72D /* TransitionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionPractice.swift; sourceTree = "<group>"; };
+		06EF7C0C29F57208003CE72D /* SheetsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */,
 				06EF7C0829F45DDB003CE72D /* AnimationTimingPractice.swift */,
 				06EF7C0A29F4AC78003CE72D /* TransitionPractice.swift */,
+				06EF7C0C29F57208003CE72D /* SheetsPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 				06EF7C0B29F4AC79003CE72D /* TransitionPractice.swift in Sources */,
 				06C8A21829E48F9B008170F2 /* GridPractice.swift in Sources */,
 				06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */,
+				06EF7C0D29F57209003CE72D /* SheetsPractice.swift in Sources */,
 				063AFB3C29ECAEE4003C6550 /* TernaryPractice.swift in Sources */,
 				06EF7C0929F45DDB003CE72D /* AnimationTimingPractice.swift in Sources */,
 				063AFB3A29EC875F003C6550 /* ConditionalPractice.swift in Sources */,
