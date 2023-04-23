@@ -41,6 +41,7 @@
 		06DE6D9129CE338900610C84 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D9029CE338900610C84 /* ImageView.swift */; };
 		06EF7C0729F43BB2003CE72D /* AnimationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */; };
 		06EF7C0929F45DDB003CE72D /* AnimationTimingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0829F45DDB003CE72D /* AnimationTimingPractice.swift */; };
+		06EF7C0B29F4AC79003CE72D /* TransitionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0A29F4AC78003CE72D /* TransitionPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,6 +79,7 @@
 		06DE6D9029CE338900610C84 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 		06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPractice.swift; sourceTree = "<group>"; };
 		06EF7C0829F45DDB003CE72D /* AnimationTimingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingPractice.swift; sourceTree = "<group>"; };
+		06EF7C0A29F4AC78003CE72D /* TransitionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +143,7 @@
 				063AFB3B29ECAEE4003C6550 /* TernaryPractice.swift */,
 				06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */,
 				06EF7C0829F45DDB003CE72D /* AnimationTimingPractice.swift */,
+				06EF7C0A29F4AC78003CE72D /* TransitionPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 				063AFB3829EB5BE9003C6550 /* BindingPractice.swift in Sources */,
 				0649ED7A29E392C8002A1ABB /* forEachView.swift in Sources */,
 				06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */,
+				06EF7C0B29F4AC79003CE72D /* TransitionPractice.swift in Sources */,
 				06C8A21829E48F9B008170F2 /* GridPractice.swift in Sources */,
 				06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */,
 				063AFB3C29ECAEE4003C6550 /* TernaryPractice.swift in Sources */,
