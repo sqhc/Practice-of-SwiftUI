@@ -44,6 +44,7 @@
 		06EF7C0B29F4AC79003CE72D /* TransitionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0A29F4AC78003CE72D /* TransitionPractice.swift */; };
 		06EF7C0D29F57209003CE72D /* SheetsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0C29F57208003CE72D /* SheetsPractice.swift */; };
 		06EF7C0F29F5A9FB003CE72D /* PopOverPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0E29F5A9FB003CE72D /* PopOverPractice.swift */; };
+		06EF7C1129F5E580003CE72D /* NavigationViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C1029F5E580003CE72D /* NavigationViewPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -84,6 +85,7 @@
 		06EF7C0A29F4AC78003CE72D /* TransitionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionPractice.swift; sourceTree = "<group>"; };
 		06EF7C0C29F57208003CE72D /* SheetsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsPractice.swift; sourceTree = "<group>"; };
 		06EF7C0E29F5A9FB003CE72D /* PopOverPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOverPractice.swift; sourceTree = "<group>"; };
+		06EF7C1029F5E580003CE72D /* NavigationViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				06EF7C0A29F4AC78003CE72D /* TransitionPractice.swift */,
 				06EF7C0C29F57208003CE72D /* SheetsPractice.swift */,
 				06EF7C0E29F5A9FB003CE72D /* PopOverPractice.swift */,
+				06EF7C1029F5E580003CE72D /* NavigationViewPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 				06C8A21A29E4D782008170F2 /* SafeAreaPractice.swift in Sources */,
 				06961E3729BD55E0007F32CF /* ColorsView.swift in Sources */,
 				06961E3529BD2C2A007F32CF /* ShapesView.swift in Sources */,
+				06EF7C1129F5E580003CE72D /* NavigationViewPractice.swift in Sources */,
 				06C8A21629E46BBD008170F2 /* ScrollViewPractice.swift in Sources */,
 				06ABEFF029D6423E00844533 /* StacksView.swift in Sources */,
 				0641CFAF29E9B6A30030CAAC /* StatePractice.swift in Sources */,
