@@ -45,6 +45,7 @@
 		06EF7C0D29F57209003CE72D /* SheetsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0C29F57208003CE72D /* SheetsPractice.swift */; };
 		06EF7C0F29F5A9FB003CE72D /* PopOverPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0E29F5A9FB003CE72D /* PopOverPractice.swift */; };
 		06EF7C1129F5E580003CE72D /* NavigationViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C1029F5E580003CE72D /* NavigationViewPractice.swift */; };
+		06EF7C1329F71244003CE72D /* ListPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C1229F71244003CE72D /* ListPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -86,6 +87,7 @@
 		06EF7C0C29F57208003CE72D /* SheetsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsPractice.swift; sourceTree = "<group>"; };
 		06EF7C0E29F5A9FB003CE72D /* PopOverPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOverPractice.swift; sourceTree = "<group>"; };
 		06EF7C1029F5E580003CE72D /* NavigationViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewPractice.swift; sourceTree = "<group>"; };
+		06EF7C1229F71244003CE72D /* ListPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 				06EF7C0C29F57208003CE72D /* SheetsPractice.swift */,
 				06EF7C0E29F5A9FB003CE72D /* PopOverPractice.swift */,
 				06EF7C1029F5E580003CE72D /* NavigationViewPractice.swift */,
+				06EF7C1229F71244003CE72D /* ListPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 				06EF7C0B29F4AC79003CE72D /* TransitionPractice.swift in Sources */,
 				06EF7C0F29F5A9FB003CE72D /* PopOverPractice.swift in Sources */,
 				06C8A21829E48F9B008170F2 /* GridPractice.swift in Sources */,
+				06EF7C1329F71244003CE72D /* ListPractice.swift in Sources */,
 				06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */,
 				06EF7C0D29F57209003CE72D /* SheetsPractice.swift in Sources */,
 				063AFB3C29ECAEE4003C6550 /* TernaryPractice.swift in Sources */,
