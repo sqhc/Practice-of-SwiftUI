@@ -46,6 +46,7 @@
 		06EF7C0F29F5A9FB003CE72D /* PopOverPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0E29F5A9FB003CE72D /* PopOverPractice.swift */; };
 		06EF7C1129F5E580003CE72D /* NavigationViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C1029F5E580003CE72D /* NavigationViewPractice.swift */; };
 		06EF7C1329F71244003CE72D /* ListPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C1229F71244003CE72D /* ListPractice.swift */; };
+		06EF7C1529F86AE7003CE72D /* AlertPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C1429F86AE6003CE72D /* AlertPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -88,6 +89,7 @@
 		06EF7C0E29F5A9FB003CE72D /* PopOverPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOverPractice.swift; sourceTree = "<group>"; };
 		06EF7C1029F5E580003CE72D /* NavigationViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewPractice.swift; sourceTree = "<group>"; };
 		06EF7C1229F71244003CE72D /* ListPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListPractice.swift; sourceTree = "<group>"; };
+		06EF7C1429F86AE6003CE72D /* AlertPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +158,7 @@
 				06EF7C0E29F5A9FB003CE72D /* PopOverPractice.swift */,
 				06EF7C1029F5E580003CE72D /* NavigationViewPractice.swift */,
 				06EF7C1229F71244003CE72D /* ListPractice.swift */,
+				06EF7C1429F86AE6003CE72D /* AlertPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 				06DE6D9129CE338900610C84 /* ImageView.swift in Sources */,
 				065606E729D9F8A300969B01 /* UsersViewModel.swift in Sources */,
 				065606E429D9B31400969B01 /* SpacerView.swift in Sources */,
+				06EF7C1529F86AE7003CE72D /* AlertPractice.swift in Sources */,
 				06961E3329BD1250007F32CF /* TextView.swift in Sources */,
 				065606EB29DA09B900969B01 /* CombineView.swift in Sources */,
 				065606EF29DB9C4B00969B01 /* InitializerView.swift in Sources */,
