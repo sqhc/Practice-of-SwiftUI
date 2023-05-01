@@ -35,6 +35,7 @@
 		06ABEFEE29D620AC00844533 /* BackgroundAndOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ABEFED29D620AC00844533 /* BackgroundAndOverlayView.swift */; };
 		06ABEFF029D6423E00844533 /* StacksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ABEFEF29D6423E00844533 /* StacksView.swift */; };
 		06B785BD29F8A2CF00EFA46F /* ActionSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B785BC29F8A2CF00EFA46F /* ActionSheetPractice.swift */; };
+		06B786482A005AA400EFA46F /* ContextMenuPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B786472A005AA400EFA46F /* ContextMenuPractice.swift */; };
 		06C8A21629E46BBD008170F2 /* ScrollViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8A21529E46BBD008170F2 /* ScrollViewPractice.swift */; };
 		06C8A21829E48F9B008170F2 /* GridPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8A21729E48F9B008170F2 /* GridPractice.swift */; };
 		06C8A21A29E4D782008170F2 /* SafeAreaPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8A21929E4D782008170F2 /* SafeAreaPractice.swift */; };
@@ -79,6 +80,7 @@
 		06ABEFED29D620AC00844533 /* BackgroundAndOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayView.swift; sourceTree = "<group>"; };
 		06ABEFEF29D6423E00844533 /* StacksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksView.swift; sourceTree = "<group>"; };
 		06B785BC29F8A2CF00EFA46F /* ActionSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetPractice.swift; sourceTree = "<group>"; };
+		06B786472A005AA400EFA46F /* ContextMenuPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuPractice.swift; sourceTree = "<group>"; };
 		06C8A21529E46BBD008170F2 /* ScrollViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPractice.swift; sourceTree = "<group>"; };
 		06C8A21729E48F9B008170F2 /* GridPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridPractice.swift; sourceTree = "<group>"; };
 		06C8A21929E4D782008170F2 /* SafeAreaPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaPractice.swift; sourceTree = "<group>"; };
@@ -162,6 +164,7 @@
 				06EF7C1229F71244003CE72D /* ListPractice.swift */,
 				06EF7C1429F86AE6003CE72D /* AlertPractice.swift */,
 				06B785BC29F8A2CF00EFA46F /* ActionSheetPractice.swift */,
+				06B786472A005AA400EFA46F /* ContextMenuPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				063AFB3629EB334E003C6550 /* ExtractSubViewsPractice.swift in Sources */,
 				065606E929D9F8E600969B01 /* UserModel.swift in Sources */,
 				06ABEFEE29D620AC00844533 /* BackgroundAndOverlayView.swift in Sources */,
+				06B786482A005AA400EFA46F /* ContextMenuPractice.swift in Sources */,
 				0641CFB129EA2F550030CAAC /* ExtractedFunctionsPractice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
