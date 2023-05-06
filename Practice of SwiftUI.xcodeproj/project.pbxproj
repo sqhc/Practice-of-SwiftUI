@@ -38,6 +38,7 @@
 		06B786482A005AA400EFA46F /* ContextMenuPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B786472A005AA400EFA46F /* ContextMenuPractice.swift */; };
 		06B7864A2A0076E000EFA46F /* TextFieldPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B786492A0076E000EFA46F /* TextFieldPractice.swift */; };
 		06B786E92A06B69900EFA46F /* TextEditorPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B786E82A06B69800EFA46F /* TextEditorPractice.swift */; };
+		06B786EB2A06D2FF00EFA46F /* TogglePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B786EA2A06D2FF00EFA46F /* TogglePractice.swift */; };
 		06C8A21629E46BBD008170F2 /* ScrollViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8A21529E46BBD008170F2 /* ScrollViewPractice.swift */; };
 		06C8A21829E48F9B008170F2 /* GridPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8A21729E48F9B008170F2 /* GridPractice.swift */; };
 		06C8A21A29E4D782008170F2 /* SafeAreaPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C8A21929E4D782008170F2 /* SafeAreaPractice.swift */; };
@@ -85,6 +86,7 @@
 		06B786472A005AA400EFA46F /* ContextMenuPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuPractice.swift; sourceTree = "<group>"; };
 		06B786492A0076E000EFA46F /* TextFieldPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldPractice.swift; sourceTree = "<group>"; };
 		06B786E82A06B69800EFA46F /* TextEditorPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorPractice.swift; sourceTree = "<group>"; };
+		06B786EA2A06D2FF00EFA46F /* TogglePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TogglePractice.swift; sourceTree = "<group>"; };
 		06C8A21529E46BBD008170F2 /* ScrollViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPractice.swift; sourceTree = "<group>"; };
 		06C8A21729E48F9B008170F2 /* GridPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridPractice.swift; sourceTree = "<group>"; };
 		06C8A21929E4D782008170F2 /* SafeAreaPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaPractice.swift; sourceTree = "<group>"; };
@@ -171,6 +173,7 @@
 				06B786472A005AA400EFA46F /* ContextMenuPractice.swift */,
 				06B786492A0076E000EFA46F /* TextFieldPractice.swift */,
 				06B786E82A06B69800EFA46F /* TextEditorPractice.swift */,
+				06B786EA2A06D2FF00EFA46F /* TogglePractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -310,6 +313,7 @@
 				06ABEFEE29D620AC00844533 /* BackgroundAndOverlayView.swift in Sources */,
 				06B786482A005AA400EFA46F /* ContextMenuPractice.swift in Sources */,
 				06B7864A2A0076E000EFA46F /* TextFieldPractice.swift in Sources */,
+				06B786EB2A06D2FF00EFA46F /* TogglePractice.swift in Sources */,
 				0641CFB129EA2F550030CAAC /* ExtractedFunctionsPractice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
