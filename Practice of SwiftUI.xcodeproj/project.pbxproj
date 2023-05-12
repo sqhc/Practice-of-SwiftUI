@@ -35,6 +35,7 @@
 		06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ABEFE529D3B6B800844533 /* FrameView.swift */; };
 		06ABEFEE29D620AC00844533 /* BackgroundAndOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ABEFED29D620AC00844533 /* BackgroundAndOverlayView.swift */; };
 		06ABEFF029D6423E00844533 /* StacksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ABEFEF29D6423E00844533 /* StacksView.swift */; };
+		06AD38612A0EC27100339A7D /* StepperPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06AD38602A0EC27100339A7D /* StepperPractice.swift */; };
 		06B785BD29F8A2CF00EFA46F /* ActionSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B785BC29F8A2CF00EFA46F /* ActionSheetPractice.swift */; };
 		06B786482A005AA400EFA46F /* ContextMenuPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B786472A005AA400EFA46F /* ContextMenuPractice.swift */; };
 		06B7864A2A0076E000EFA46F /* TextFieldPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B786492A0076E000EFA46F /* TextFieldPractice.swift */; };
@@ -86,6 +87,7 @@
 		06ABEFE529D3B6B800844533 /* FrameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameView.swift; sourceTree = "<group>"; };
 		06ABEFED29D620AC00844533 /* BackgroundAndOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayView.swift; sourceTree = "<group>"; };
 		06ABEFEF29D6423E00844533 /* StacksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksView.swift; sourceTree = "<group>"; };
+		06AD38602A0EC27100339A7D /* StepperPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperPractice.swift; sourceTree = "<group>"; };
 		06B785BC29F8A2CF00EFA46F /* ActionSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetPractice.swift; sourceTree = "<group>"; };
 		06B786472A005AA400EFA46F /* ContextMenuPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuPractice.swift; sourceTree = "<group>"; };
 		06B786492A0076E000EFA46F /* TextFieldPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldPractice.swift; sourceTree = "<group>"; };
@@ -183,6 +185,7 @@
 				06B786EC2A08210F00EFA46F /* PickerPractice.swift */,
 				06B786EE2A082CCA00EFA46F /* ColorPickerPractice.swift */,
 				065CB1532A0B1D2C00816B79 /* DatePickerPractice.swift */,
+				06AD38602A0EC27100339A7D /* StepperPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -300,6 +303,7 @@
 				06EF7C1329F71244003CE72D /* ListPractice.swift in Sources */,
 				06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */,
 				06EF7C0D29F57209003CE72D /* SheetsPractice.swift in Sources */,
+				06AD38612A0EC27100339A7D /* StepperPractice.swift in Sources */,
 				063AFB3C29ECAEE4003C6550 /* TernaryPractice.swift in Sources */,
 				06EF7C0929F45DDB003CE72D /* AnimationTimingPractice.swift in Sources */,
 				063AFB3A29EC875F003C6550 /* ConditionalPractice.swift in Sources */,
