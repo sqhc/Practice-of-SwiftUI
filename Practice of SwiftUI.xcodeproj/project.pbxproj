@@ -37,6 +37,7 @@
 		06ABEFF029D6423E00844533 /* StacksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ABEFEF29D6423E00844533 /* StacksView.swift */; };
 		06AD38612A0EC27100339A7D /* StepperPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06AD38602A0EC27100339A7D /* StepperPractice.swift */; };
 		06AD38632A0EC82E00339A7D /* SliderPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06AD38622A0EC82E00339A7D /* SliderPractice.swift */; };
+		06AD38652A10136000339A7D /* TabeViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06AD38642A10135F00339A7D /* TabeViewPractice.swift */; };
 		06B785BD29F8A2CF00EFA46F /* ActionSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B785BC29F8A2CF00EFA46F /* ActionSheetPractice.swift */; };
 		06B786482A005AA400EFA46F /* ContextMenuPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B786472A005AA400EFA46F /* ContextMenuPractice.swift */; };
 		06B7864A2A0076E000EFA46F /* TextFieldPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B786492A0076E000EFA46F /* TextFieldPractice.swift */; };
@@ -90,6 +91,7 @@
 		06ABEFEF29D6423E00844533 /* StacksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksView.swift; sourceTree = "<group>"; };
 		06AD38602A0EC27100339A7D /* StepperPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperPractice.swift; sourceTree = "<group>"; };
 		06AD38622A0EC82E00339A7D /* SliderPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderPractice.swift; sourceTree = "<group>"; };
+		06AD38642A10135F00339A7D /* TabeViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabeViewPractice.swift; sourceTree = "<group>"; };
 		06B785BC29F8A2CF00EFA46F /* ActionSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetPractice.swift; sourceTree = "<group>"; };
 		06B786472A005AA400EFA46F /* ContextMenuPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuPractice.swift; sourceTree = "<group>"; };
 		06B786492A0076E000EFA46F /* TextFieldPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldPractice.swift; sourceTree = "<group>"; };
@@ -189,6 +191,7 @@
 				065CB1532A0B1D2C00816B79 /* DatePickerPractice.swift */,
 				06AD38602A0EC27100339A7D /* StepperPractice.swift */,
 				06AD38622A0EC82E00339A7D /* SliderPractice.swift */,
+				06AD38642A10135F00339A7D /* TabeViewPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -291,6 +294,7 @@
 				06DE6D9129CE338900610C84 /* ImageView.swift in Sources */,
 				065606E729D9F8A300969B01 /* UsersViewModel.swift in Sources */,
 				065606E429D9B31400969B01 /* SpacerView.swift in Sources */,
+				06AD38652A10136000339A7D /* TabeViewPractice.swift in Sources */,
 				06EF7C1529F86AE7003CE72D /* AlertPractice.swift in Sources */,
 				06961E3329BD1250007F32CF /* TextView.swift in Sources */,
 				065606EB29DA09B900969B01 /* CombineView.swift in Sources */,
