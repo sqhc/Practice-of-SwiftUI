@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		062971842A167C7F0022A2AE /* IFGUARDPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062971832A167C7E0022A2AE /* IFGUARDPractice.swift */; };
 		063AFB3629EB334E003C6550 /* ExtractSubViewsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063AFB3529EB334E003C6550 /* ExtractSubViewsPractice.swift */; };
 		063AFB3829EB5BE9003C6550 /* BindingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063AFB3729EB5BE9003C6550 /* BindingPractice.swift */; };
 		063AFB3A29EC875F003C6550 /* ConditionalPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063AFB3929EC875F003C6550 /* ConditionalPractice.swift */; };
@@ -64,6 +65,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		062971832A167C7E0022A2AE /* IFGUARDPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IFGUARDPractice.swift; sourceTree = "<group>"; };
 		063AFB3529EB334E003C6550 /* ExtractSubViewsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViewsPractice.swift; sourceTree = "<group>"; };
 		063AFB3729EB5BE9003C6550 /* BindingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPractice.swift; sourceTree = "<group>"; };
 		063AFB3929EC875F003C6550 /* ConditionalPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalPractice.swift; sourceTree = "<group>"; };
@@ -201,6 +203,7 @@
 				06AD38662A1048D900339A7D /* DarkModePractice.swift */,
 				06AD38682A11553C00339A7D /* DocumentationPractice.swift */,
 				06AD386A2A116B7C00339A7D /* OnAppearPractice.swift */,
+				062971832A167C7E0022A2AE /* IFGUARDPractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -301,6 +304,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				06DE6D9129CE338900610C84 /* ImageView.swift in Sources */,
+				062971842A167C7F0022A2AE /* IFGUARDPractice.swift in Sources */,
 				065606E729D9F8A300969B01 /* UsersViewModel.swift in Sources */,
 				065606E429D9B31400969B01 /* SpacerView.swift in Sources */,
 				06AD38652A10136000339A7D /* TabeViewPractice.swift in Sources */,
