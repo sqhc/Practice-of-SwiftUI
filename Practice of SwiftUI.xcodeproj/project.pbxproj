@@ -10,6 +10,7 @@
 		062971842A167C7F0022A2AE /* IFGUARDPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062971832A167C7E0022A2AE /* IFGUARDPractice.swift */; };
 		062971862A1694E80022A2AE /* TapGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062971852A1694E80022A2AE /* TapGesturePractice.swift */; };
 		062971882A16AE430022A2AE /* ModelPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062971872A16AE430022A2AE /* ModelPractice.swift */; };
+		062971E02A1D38700022A2AE /* ViewModelBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062971DF2A1D38700022A2AE /* ViewModelBootCamp.swift */; };
 		063AFB3629EB334E003C6550 /* ExtractSubViewsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063AFB3529EB334E003C6550 /* ExtractSubViewsPractice.swift */; };
 		063AFB3829EB5BE9003C6550 /* BindingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063AFB3729EB5BE9003C6550 /* BindingPractice.swift */; };
 		063AFB3A29EC875F003C6550 /* ConditionalPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063AFB3929EC875F003C6550 /* ConditionalPractice.swift */; };
@@ -70,6 +71,7 @@
 		062971832A167C7E0022A2AE /* IFGUARDPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IFGUARDPractice.swift; sourceTree = "<group>"; };
 		062971852A1694E80022A2AE /* TapGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesturePractice.swift; sourceTree = "<group>"; };
 		062971872A16AE430022A2AE /* ModelPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelPractice.swift; sourceTree = "<group>"; };
+		062971DF2A1D38700022A2AE /* ViewModelBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootCamp.swift; sourceTree = "<group>"; };
 		063AFB3529EB334E003C6550 /* ExtractSubViewsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViewsPractice.swift; sourceTree = "<group>"; };
 		063AFB3729EB5BE9003C6550 /* BindingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPractice.swift; sourceTree = "<group>"; };
 		063AFB3929EC875F003C6550 /* ConditionalPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalPractice.swift; sourceTree = "<group>"; };
@@ -210,6 +212,7 @@
 				062971832A167C7E0022A2AE /* IFGUARDPractice.swift */,
 				062971852A1694E80022A2AE /* TapGesturePractice.swift */,
 				062971872A16AE430022A2AE /* ModelPractice.swift */,
+				062971DF2A1D38700022A2AE /* ViewModelBootCamp.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -351,6 +354,7 @@
 				062971862A1694E80022A2AE /* TapGesturePractice.swift in Sources */,
 				06AD38632A0EC82E00339A7D /* SliderPractice.swift in Sources */,
 				065CB1542A0B1D2C00816B79 /* DatePickerPractice.swift in Sources */,
+				062971E02A1D38700022A2AE /* ViewModelBootCamp.swift in Sources */,
 				06961E7829C005F0007F32CF /* GradiantView.swift in Sources */,
 				06EF7C0729F43BB2003CE72D /* AnimationPractice.swift in Sources */,
 				062971882A16AE430022A2AE /* ModelPractice.swift in Sources */,
