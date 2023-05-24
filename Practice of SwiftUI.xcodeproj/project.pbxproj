@@ -12,6 +12,7 @@
 		062971882A16AE430022A2AE /* ModelPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062971872A16AE430022A2AE /* ModelPractice.swift */; };
 		062971E02A1D38700022A2AE /* ViewModelBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062971DF2A1D38700022A2AE /* ViewModelBootCamp.swift */; };
 		062971E22A1D4EA90022A2AE /* EnvironmentObjectPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062971E12A1D4EA70022A2AE /* EnvironmentObjectPractice.swift */; };
+		062971E42A1E86470022A2AE /* AppStoragePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062971E32A1E86450022A2AE /* AppStoragePractice.swift */; };
 		063AFB3629EB334E003C6550 /* ExtractSubViewsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063AFB3529EB334E003C6550 /* ExtractSubViewsPractice.swift */; };
 		063AFB3829EB5BE9003C6550 /* BindingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063AFB3729EB5BE9003C6550 /* BindingPractice.swift */; };
 		063AFB3A29EC875F003C6550 /* ConditionalPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063AFB3929EC875F003C6550 /* ConditionalPractice.swift */; };
@@ -74,6 +75,7 @@
 		062971872A16AE430022A2AE /* ModelPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelPractice.swift; sourceTree = "<group>"; };
 		062971DF2A1D38700022A2AE /* ViewModelBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootCamp.swift; sourceTree = "<group>"; };
 		062971E12A1D4EA70022A2AE /* EnvironmentObjectPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectPractice.swift; sourceTree = "<group>"; };
+		062971E32A1E86450022A2AE /* AppStoragePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoragePractice.swift; sourceTree = "<group>"; };
 		063AFB3529EB334E003C6550 /* ExtractSubViewsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViewsPractice.swift; sourceTree = "<group>"; };
 		063AFB3729EB5BE9003C6550 /* BindingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPractice.swift; sourceTree = "<group>"; };
 		063AFB3929EC875F003C6550 /* ConditionalPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalPractice.swift; sourceTree = "<group>"; };
@@ -216,6 +218,7 @@
 				062971872A16AE430022A2AE /* ModelPractice.swift */,
 				062971DF2A1D38700022A2AE /* ViewModelBootCamp.swift */,
 				062971E12A1D4EA70022A2AE /* EnvironmentObjectPractice.swift */,
+				062971E32A1E86450022A2AE /* AppStoragePractice.swift */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -323,6 +326,7 @@
 				06EF7C1529F86AE7003CE72D /* AlertPractice.swift in Sources */,
 				06961E3329BD1250007F32CF /* TextView.swift in Sources */,
 				065606EB29DA09B900969B01 /* CombineView.swift in Sources */,
+				062971E42A1E86470022A2AE /* AppStoragePractice.swift in Sources */,
 				065606EF29DB9C4B00969B01 /* InitializerView.swift in Sources */,
 				06AD386B2A116B7C00339A7D /* OnAppearPractice.swift in Sources */,
 				06AD38672A1048D900339A7D /* DarkModePractice.swift in Sources */,
