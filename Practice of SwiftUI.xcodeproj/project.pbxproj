@@ -27,6 +27,7 @@
 		0641CFAD29E9A13B0030CAAC /* ButtonsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0641CFAC29E9A13B0030CAAC /* ButtonsPractice.swift */; };
 		0641CFAF29E9B6A30030CAAC /* StatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0641CFAE29E9B6A30030CAAC /* StatePractice.swift */; };
 		0641CFB129EA2F550030CAAC /* ExtractedFunctionsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0641CFB029EA2F550030CAAC /* ExtractedFunctionsPractice.swift */; };
+		0643F1AB2A30DDB2006C90BD /* AsyncImagePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0643F1AA2A30DDB2006C90BD /* AsyncImagePractice.swift */; };
 		0649ED7A29E392C8002A1ABB /* forEachView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0649ED7929E392C8002A1ABB /* forEachView.swift */; };
 		065606E229D8706700969B01 /* PaddingAndSpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065606E129D8706600969B01 /* PaddingAndSpacerView.swift */; };
 		065606E429D9B31400969B01 /* SpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065606E329D9B31400969B01 /* SpacerView.swift */; };
@@ -93,6 +94,7 @@
 		0641CFAC29E9A13B0030CAAC /* ButtonsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsPractice.swift; sourceTree = "<group>"; };
 		0641CFAE29E9B6A30030CAAC /* StatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePractice.swift; sourceTree = "<group>"; };
 		0641CFB029EA2F550030CAAC /* ExtractedFunctionsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsPractice.swift; sourceTree = "<group>"; };
+		0643F1AA2A30DDB2006C90BD /* AsyncImagePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImagePractice.swift; sourceTree = "<group>"; };
 		0649ED7929E392C8002A1ABB /* forEachView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = forEachView.swift; sourceTree = "<group>"; };
 		065606E129D8706600969B01 /* PaddingAndSpacerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerView.swift; sourceTree = "<group>"; };
 		065606E329D9B31400969B01 /* SpacerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerView.swift; sourceTree = "<group>"; };
@@ -235,6 +237,7 @@
 				062971DF2A1D38700022A2AE /* ViewModelBootCamp.swift */,
 				062971E12A1D4EA70022A2AE /* EnvironmentObjectPractice.swift */,
 				062971E32A1E86450022A2AE /* AppStoragePractice.swift */,
+				0643F1AA2A30DDB2006C90BD /* AsyncImagePractice.swift */,
 				060436C82A2D47DA00CF0C99 /* Onboarding views */,
 			);
 			path = "Practice of SwiftUI";
@@ -348,6 +351,7 @@
 				065606EF29DB9C4B00969B01 /* InitializerView.swift in Sources */,
 				06AD386B2A116B7C00339A7D /* OnAppearPractice.swift in Sources */,
 				06AD38672A1048D900339A7D /* DarkModePractice.swift in Sources */,
+				0643F1AB2A30DDB2006C90BD /* AsyncImagePractice.swift in Sources */,
 				063AFB3829EB5BE9003C6550 /* BindingPractice.swift in Sources */,
 				0649ED7A29E392C8002A1ABB /* forEachView.swift in Sources */,
 				06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */,
