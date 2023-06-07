@@ -12,7 +12,8 @@ struct Practice_of_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            AppStoragePractice()
+//            AppStoragePractice()
+            IntroView()
         }
     }
 }

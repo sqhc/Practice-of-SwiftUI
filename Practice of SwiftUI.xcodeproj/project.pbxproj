@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		060436CA2A2D487100CF0C99 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060436C92A2D487100CF0C99 /* IntroView.swift */; };
+		060436CC2A2D73DE00CF0C99 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060436CB2A2D73DE00CF0C99 /* OnboardingView.swift */; };
 		062971842A167C7F0022A2AE /* IFGUARDPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062971832A167C7E0022A2AE /* IFGUARDPractice.swift */; };
 		062971862A1694E80022A2AE /* TapGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062971852A1694E80022A2AE /* TapGesturePractice.swift */; };
 		062971882A16AE430022A2AE /* ModelPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062971872A16AE430022A2AE /* ModelPractice.swift */; };
@@ -34,6 +36,7 @@
 		065606ED29DA19A100969B01 /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065606EC29DA19A100969B01 /* UserView.swift */; };
 		065606EF29DB9C4B00969B01 /* InitializerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065606EE29DB9C4A00969B01 /* InitializerView.swift */; };
 		065CB1542A0B1D2C00816B79 /* DatePickerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065CB1532A0B1D2C00816B79 /* DatePickerPractice.swift */; };
+		0687E4B92A30139100AF074A /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0687E4B82A30139100AF074A /* ProfileView.swift */; };
 		06961E3329BD1250007F32CF /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06961E3229BD124F007F32CF /* TextView.swift */; };
 		06961E3529BD2C2A007F32CF /* ShapesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06961E3429BD2C2A007F32CF /* ShapesView.swift */; };
 		06961E3729BD55E0007F32CF /* ColorsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06961E3629BD55E0007F32CF /* ColorsView.swift */; };
@@ -70,6 +73,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		060436C92A2D487100CF0C99 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		060436CB2A2D73DE00CF0C99 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		062971832A167C7E0022A2AE /* IFGUARDPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IFGUARDPractice.swift; sourceTree = "<group>"; };
 		062971852A1694E80022A2AE /* TapGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesturePractice.swift; sourceTree = "<group>"; };
 		062971872A16AE430022A2AE /* ModelPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelPractice.swift; sourceTree = "<group>"; };
@@ -97,6 +102,7 @@
 		065606EC29DA19A100969B01 /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
 		065606EE29DB9C4A00969B01 /* InitializerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerView.swift; sourceTree = "<group>"; };
 		065CB1532A0B1D2C00816B79 /* DatePickerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerPractice.swift; sourceTree = "<group>"; };
+		0687E4B82A30139100AF074A /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		06961E3229BD124F007F32CF /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 		06961E3429BD2C2A007F32CF /* ShapesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesView.swift; sourceTree = "<group>"; };
 		06961E3629BD55E0007F32CF /* ColorsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsView.swift; sourceTree = "<group>"; };
@@ -144,6 +150,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		060436C82A2D47DA00CF0C99 /* Onboarding views */ = {
+			isa = PBXGroup;
+			children = (
+				060436C92A2D487100CF0C99 /* IntroView.swift */,
+				060436CB2A2D73DE00CF0C99 /* OnboardingView.swift */,
+				0687E4B82A30139100AF074A /* ProfileView.swift */,
+			);
+			path = "Onboarding views";
+			sourceTree = "<group>";
+		};
 		063C9DE329B3E3C700AA995D = {
 			isa = PBXGroup;
 			children = (
@@ -219,6 +235,7 @@
 				062971DF2A1D38700022A2AE /* ViewModelBootCamp.swift */,
 				062971E12A1D4EA70022A2AE /* EnvironmentObjectPractice.swift */,
 				062971E32A1E86450022A2AE /* AppStoragePractice.swift */,
+				060436C82A2D47DA00CF0C99 /* Onboarding views */,
 			);
 			path = "Practice of SwiftUI";
 			sourceTree = "<group>";
@@ -323,6 +340,7 @@
 				065606E729D9F8A300969B01 /* UsersViewModel.swift in Sources */,
 				065606E429D9B31400969B01 /* SpacerView.swift in Sources */,
 				06AD38652A10136000339A7D /* TabeViewPractice.swift in Sources */,
+				060436CC2A2D73DE00CF0C99 /* OnboardingView.swift in Sources */,
 				06EF7C1529F86AE7003CE72D /* AlertPractice.swift in Sources */,
 				06961E3329BD1250007F32CF /* TextView.swift in Sources */,
 				065606EB29DA09B900969B01 /* CombineView.swift in Sources */,
@@ -341,6 +359,7 @@
 				06EF7C1329F71244003CE72D /* ListPractice.swift in Sources */,
 				06ABEFE629D3B6B800844533 /* FrameView.swift in Sources */,
 				06EF7C0D29F57209003CE72D /* SheetsPractice.swift in Sources */,
+				060436CA2A2D487100CF0C99 /* IntroView.swift in Sources */,
 				06AD38612A0EC27100339A7D /* StepperPractice.swift in Sources */,
 				063AFB3C29ECAEE4003C6550 /* TernaryPractice.swift in Sources */,
 				06EF7C0929F45DDB003CE72D /* AnimationTimingPractice.swift in Sources */,
@@ -368,6 +387,7 @@
 				062971882A16AE430022A2AE /* ModelPractice.swift in Sources */,
 				065606ED29DA19A100969B01 /* UserView.swift in Sources */,
 				063C9DF029B3E3C800AA995D /* Practice_of_SwiftUIApp.swift in Sources */,
+				0687E4B92A30139100AF074A /* ProfileView.swift in Sources */,
 				063AFB3629EB334E003C6550 /* ExtractSubViewsPractice.swift in Sources */,
 				065606E929D9F8E600969B01 /* UserModel.swift in Sources */,
 				06ABEFEE29D620AC00844533 /* BackgroundAndOverlayView.swift in Sources */,
