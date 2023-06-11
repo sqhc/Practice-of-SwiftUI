@@ -29,6 +29,7 @@
 		0641CFB129EA2F550030CAAC /* ExtractedFunctionsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0641CFB029EA2F550030CAAC /* ExtractedFunctionsPractice.swift */; };
 		0643F1AB2A30DDB2006C90BD /* AsyncImagePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0643F1AA2A30DDB2006C90BD /* AsyncImagePractice.swift */; };
 		0643F1AD2A30F91A006C90BD /* BackgroundMaterialsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0643F1AC2A30F91A006C90BD /* BackgroundMaterialsPractice.swift */; };
+		0643F1F62A36204E006C90BD /* TextSelectionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0643F1F52A36204E006C90BD /* TextSelectionPractice.swift */; };
 		0649ED7A29E392C8002A1ABB /* forEachView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0649ED7929E392C8002A1ABB /* forEachView.swift */; };
 		065606E229D8706700969B01 /* PaddingAndSpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065606E129D8706600969B01 /* PaddingAndSpacerView.swift */; };
 		065606E429D9B31400969B01 /* SpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065606E329D9B31400969B01 /* SpacerView.swift */; };
@@ -97,6 +98,7 @@
 		0641CFB029EA2F550030CAAC /* ExtractedFunctionsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsPractice.swift; sourceTree = "<group>"; };
 		0643F1AA2A30DDB2006C90BD /* AsyncImagePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImagePractice.swift; sourceTree = "<group>"; };
 		0643F1AC2A30F91A006C90BD /* BackgroundMaterialsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsPractice.swift; sourceTree = "<group>"; };
+		0643F1F52A36204E006C90BD /* TextSelectionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionPractice.swift; sourceTree = "<group>"; };
 		0649ED7929E392C8002A1ABB /* forEachView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = forEachView.swift; sourceTree = "<group>"; };
 		065606E129D8706600969B01 /* PaddingAndSpacerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerView.swift; sourceTree = "<group>"; };
 		065606E329D9B31400969B01 /* SpacerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerView.swift; sourceTree = "<group>"; };
@@ -241,6 +243,7 @@
 				062971E32A1E86450022A2AE /* AppStoragePractice.swift */,
 				0643F1AA2A30DDB2006C90BD /* AsyncImagePractice.swift */,
 				0643F1AC2A30F91A006C90BD /* BackgroundMaterialsPractice.swift */,
+				0643F1F52A36204E006C90BD /* TextSelectionPractice.swift */,
 				060436C82A2D47DA00CF0C99 /* Onboarding views */,
 			);
 			path = "Practice of SwiftUI";
@@ -399,6 +402,7 @@
 				063AFB3629EB334E003C6550 /* ExtractSubViewsPractice.swift in Sources */,
 				065606E929D9F8E600969B01 /* UserModel.swift in Sources */,
 				06ABEFEE29D620AC00844533 /* BackgroundAndOverlayView.swift in Sources */,
+				0643F1F62A36204E006C90BD /* TextSelectionPractice.swift in Sources */,
 				06B786482A005AA400EFA46F /* ContextMenuPractice.swift in Sources */,
 				06B7864A2A0076E000EFA46F /* TextFieldPractice.swift in Sources */,
 				06B786EB2A06D2FF00EFA46F /* TogglePractice.swift in Sources */,
