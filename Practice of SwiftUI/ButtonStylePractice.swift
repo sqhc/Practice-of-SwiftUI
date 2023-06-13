@@ -63,7 +63,5 @@ struct ButtonStylePractice: View {
 struct ButtonStylePractice_Previews: PreviewProvider {
     static var previews: some View {
         ButtonStylePractice()
-            .preferredColorScheme(.dark)
-            
     }
 }
