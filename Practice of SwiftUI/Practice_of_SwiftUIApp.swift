@@ -13,7 +13,8 @@ struct Practice_of_SwiftUIApp: App {
         WindowGroup {
 //            ContentView()
 //            AppStoragePractice()
-            IntroView()
+//            IntroView()
+            FocusStatePractice()
         }
     }
 }
