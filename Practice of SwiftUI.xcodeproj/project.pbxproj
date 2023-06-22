@@ -72,6 +72,7 @@
 		06D9DC262A44B98000BA25F6 /* ToolbarPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC252A44B98000BA25F6 /* ToolbarPractice.swift */; };
 		06D9DC282A44C15D00BA25F6 /* ResizeableSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC272A44C15D00BA25F6 /* ResizeableSheetPractice.swift */; };
 		06D9DC2A2A44C57100BA25F6 /* SafeAreaInsetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC292A44C57100BA25F6 /* SafeAreaInsetPractice.swift */; };
+		06D9DC2C2A44CD8200BA25F6 /* GroupPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC2B2A44CD8200BA25F6 /* GroupPractice.swift */; };
 		06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D7B29CCE9F800610C84 /* IconView.swift */; };
 		06DE6D9129CE338900610C84 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D9029CE338900610C84 /* ImageView.swift */; };
 		06EF7C0729F43BB2003CE72D /* AnimationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */; };
@@ -150,6 +151,7 @@
 		06D9DC252A44B98000BA25F6 /* ToolbarPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarPractice.swift; sourceTree = "<group>"; };
 		06D9DC272A44C15D00BA25F6 /* ResizeableSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizeableSheetPractice.swift; sourceTree = "<group>"; };
 		06D9DC292A44C57100BA25F6 /* SafeAreaInsetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaInsetPractice.swift; sourceTree = "<group>"; };
+		06D9DC2B2A44CD8200BA25F6 /* GroupPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupPractice.swift; sourceTree = "<group>"; };
 		06DE6D7B29CCE9F800610C84 /* IconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconView.swift; sourceTree = "<group>"; };
 		06DE6D9029CE338900610C84 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 		06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPractice.swift; sourceTree = "<group>"; };
@@ -271,6 +273,7 @@
 				06D9DC252A44B98000BA25F6 /* ToolbarPractice.swift */,
 				06D9DC272A44C15D00BA25F6 /* ResizeableSheetPractice.swift */,
 				06D9DC292A44C57100BA25F6 /* SafeAreaInsetPractice.swift */,
+				06D9DC2B2A44CD8200BA25F6 /* GroupPractice.swift */,
 				060436C82A2D47DA00CF0C99 /* Onboarding views */,
 			);
 			path = "Practice of SwiftUI";
@@ -409,6 +412,7 @@
 				0641CFAD29E9A13B0030CAAC /* ButtonsPractice.swift in Sources */,
 				063C9DF229B3E3C800AA995D /* ContentView.swift in Sources */,
 				0643F1AD2A30F91A006C90BD /* BackgroundMaterialsPractice.swift in Sources */,
+				06D9DC2C2A44CD8200BA25F6 /* GroupPractice.swift in Sources */,
 				06B786EF2A082CCB00EFA46F /* ColorPickerPractice.swift in Sources */,
 				06C8A21A29E4D782008170F2 /* SafeAreaPractice.swift in Sources */,
 				06AD38692A11553C00339A7D /* DocumentationPractice.swift in Sources */,
