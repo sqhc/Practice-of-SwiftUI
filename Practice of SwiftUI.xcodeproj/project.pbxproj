@@ -70,6 +70,8 @@
 		06D886D82A3F85AC00E7D1D6 /* FocusStatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D886D72A3F85AC00E7D1D6 /* FocusStatePractice.swift */; };
 		06D886DA2A3F977100E7D1D6 /* SubmitTextFieldPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D886D92A3F977000E7D1D6 /* SubmitTextFieldPractice.swift */; };
 		06D9DC262A44B98000BA25F6 /* ToolbarPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC252A44B98000BA25F6 /* ToolbarPractice.swift */; };
+		06D9DC282A44C15D00BA25F6 /* ResizeableSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC272A44C15D00BA25F6 /* ResizeableSheetPractice.swift */; };
+		06D9DC2A2A44C57100BA25F6 /* SafeAreaInsetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D9DC292A44C57100BA25F6 /* SafeAreaInsetPractice.swift */; };
 		06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D7B29CCE9F800610C84 /* IconView.swift */; };
 		06DE6D9129CE338900610C84 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE6D9029CE338900610C84 /* ImageView.swift */; };
 		06EF7C0729F43BB2003CE72D /* AnimationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */; };
@@ -146,6 +148,8 @@
 		06D886D72A3F85AC00E7D1D6 /* FocusStatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStatePractice.swift; sourceTree = "<group>"; };
 		06D886D92A3F977000E7D1D6 /* SubmitTextFieldPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextFieldPractice.swift; sourceTree = "<group>"; };
 		06D9DC252A44B98000BA25F6 /* ToolbarPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarPractice.swift; sourceTree = "<group>"; };
+		06D9DC272A44C15D00BA25F6 /* ResizeableSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizeableSheetPractice.swift; sourceTree = "<group>"; };
+		06D9DC292A44C57100BA25F6 /* SafeAreaInsetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaInsetPractice.swift; sourceTree = "<group>"; };
 		06DE6D7B29CCE9F800610C84 /* IconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconView.swift; sourceTree = "<group>"; };
 		06DE6D9029CE338900610C84 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 		06EF7C0629F43BB2003CE72D /* AnimationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPractice.swift; sourceTree = "<group>"; };
@@ -265,6 +269,8 @@
 				06D886D92A3F977000E7D1D6 /* SubmitTextFieldPractice.swift */,
 				06810A492A44B36900A8DF24 /* NavigationStackPractice.swift */,
 				06D9DC252A44B98000BA25F6 /* ToolbarPractice.swift */,
+				06D9DC272A44C15D00BA25F6 /* ResizeableSheetPractice.swift */,
+				06D9DC292A44C57100BA25F6 /* SafeAreaInsetPractice.swift */,
 				060436C82A2D47DA00CF0C99 /* Onboarding views */,
 			);
 			path = "Practice of SwiftUI";
@@ -374,6 +380,7 @@
 				060436CC2A2D73DE00CF0C99 /* OnboardingView.swift in Sources */,
 				06EF7C1529F86AE7003CE72D /* AlertPractice.swift in Sources */,
 				06D9DC262A44B98000BA25F6 /* ToolbarPractice.swift in Sources */,
+				06D9DC282A44C15D00BA25F6 /* ResizeableSheetPractice.swift in Sources */,
 				06961E3329BD1250007F32CF /* TextView.swift in Sources */,
 				065606EB29DA09B900969B01 /* CombineView.swift in Sources */,
 				062971E42A1E86470022A2AE /* AppStoragePractice.swift in Sources */,
@@ -384,6 +391,7 @@
 				063AFB3829EB5BE9003C6550 /* BindingPractice.swift in Sources */,
 				0649ED7A29E392C8002A1ABB /* forEachView.swift in Sources */,
 				06DE6D7C29CCE9F800610C84 /* IconView.swift in Sources */,
+				06D9DC2A2A44C57100BA25F6 /* SafeAreaInsetPractice.swift in Sources */,
 				06B785BD29F8A2CF00EFA46F /* ActionSheetPractice.swift in Sources */,
 				06B786E92A06B69900EFA46F /* TextEditorPractice.swift in Sources */,
 				06EF7C0B29F4AC79003CE72D /* TransitionPractice.swift in Sources */,
